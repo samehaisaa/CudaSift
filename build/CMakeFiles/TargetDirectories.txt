@@ -1,0 +1,9 @@
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/cudasift.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/package.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/package_source.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/edit_cache.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/rebuild_cache.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/list_install_components.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/install.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/install/local.dir
+/home/sameh/myrepos/CudaSift/build/CMakeFiles/install/strip.dir
