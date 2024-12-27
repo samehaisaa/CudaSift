@@ -871,7 +871,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "cudaSift"
+			"value" : "CudaSiftProject"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -2032,6 +2032,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "/usr/share/cmake-3.22/Modules/FindCUDA/run_nvcc.cmake"
+		},
+		{
+			"name" : "CudaSiftProject_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/sameh/myrepos/CudaSift/build"
+		},
+		{
+			"name" : "CudaSiftProject_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "CudaSiftProject_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/sameh/myrepos/CudaSift"
 		},
 		{
 			"name" : "CudaSift_BINARY_DIR",

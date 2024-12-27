@@ -147,7 +147,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=cudaSift
+CMAKE_PROJECT_NAME:STATIC=CudaSiftProject
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -370,6 +370,15 @@ CUDA_nvToolsExt_LIBRARY:FILEPATH=/usr/local/cuda-12.6/lib64/libnvToolsExt.so
 
 //Path to a library.
 CUDA_rt_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.a
+
+//Value Computed by CMake
+CudaSiftProject_BINARY_DIR:STATIC=/home/sameh/myrepos/CudaSift/build
+
+//Value Computed by CMake
+CudaSiftProject_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+CudaSiftProject_SOURCE_DIR:STATIC=/home/sameh/myrepos/CudaSift
 
 //Value Computed by CMake
 CudaSift_BINARY_DIR:STATIC=/home/sameh/myrepos/CudaSift/build
