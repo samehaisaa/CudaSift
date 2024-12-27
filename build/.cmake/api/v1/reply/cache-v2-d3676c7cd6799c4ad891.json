@@ -146,6 +146,18 @@
 			"value" : "/usr/bin/ctest"
 		},
 		{
+			"name" : "CMAKE_CUDA_ARCH_BIN",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "sm_75"
+		},
+		{
 			"name" : "CMAKE_CXX_COMPILER",
 			"properties" : 
 			[
@@ -2022,6 +2034,42 @@
 			"value" : "/usr/share/cmake-3.22/Modules/FindCUDA/run_nvcc.cmake"
 		},
 		{
+			"name" : "CudaSift_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/sameh/myrepos/CudaSift/build"
+		},
+		{
+			"name" : "CudaSift_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "CudaSift_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/sameh/myrepos/CudaSift"
+		},
+		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_CUDA",
 			"properties" : 
 			[
@@ -2043,7 +2091,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[/mnt/d/anaconda3/Library][v4.6.0()]"
+			"value" : "[/usr][v4.5.4()]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Threads",
@@ -2067,7 +2115,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/mnt/d/anaconda3/Library/lib/cmake/opencv"
+			"value" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4"
 		},
 		{
 			"name" : "cudaSift_BINARY_DIR",

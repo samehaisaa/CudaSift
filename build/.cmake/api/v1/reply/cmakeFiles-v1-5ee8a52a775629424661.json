@@ -141,11 +141,11 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "/mnt/d/anaconda3/Library/lib/cmake/opencv/OpenCVConfig-version.cmake"
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig-version.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/mnt/d/anaconda3/Library/lib/cmake/opencv/OpenCVConfig.cmake"
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVConfig.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -159,11 +159,11 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "/mnt/d/anaconda3/Library/lib/cmake/opencv/OpenCVModules.cmake"
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/mnt/d/anaconda3/Library/lib/cmake/opencv/OpenCVModules-release.cmake"
+			"path" : "/usr/lib/x86_64-linux-gnu/cmake/opencv4/OpenCVModules-release.cmake"
 		},
 		{
 			"isCMake" : true,

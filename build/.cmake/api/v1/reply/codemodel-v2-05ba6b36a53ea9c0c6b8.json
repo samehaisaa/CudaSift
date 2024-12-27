@@ -7,10 +7,10 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-f330b117442ec0664d1a.json",
+					"jsonFile" : "directory-.-Debug-bc0728b5c6f0ca314c51.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "2.8.12"
+						"string" : "3.10"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cudasift::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cudasift-Debug-8b3c95ad3720ced51f18.json",
+					"jsonFile" : "target-cudasift-Debug-b679c842af9381435636.json",
 					"name" : "cudasift",
 					"projectIndex" : 0
 				}

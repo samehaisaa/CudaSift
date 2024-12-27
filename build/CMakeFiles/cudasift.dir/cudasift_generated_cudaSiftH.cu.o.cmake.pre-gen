@@ -72,7 +72,7 @@ set(generated_file_internal "/home/sameh/myrepos/CudaSift/build/CMakeFiles/cudas
 set(generated_cubin_file_internal "/home/sameh/myrepos/CudaSift/build/CMakeFiles/cudasift.dir//./cudasift_generated_cudaSiftH.cu.o.cubin.txt") # path
 
 set(CUDA_NVCC_EXECUTABLE "/usr/local/cuda-12.6/bin/nvcc") # path
-set(CUDA_NVCC_FLAGS -lineinfo;-ccbin;/usr/bin/gcc-6;--compiler-options;-O2;-D_FORCE_INLINES;-DVERBOSE_NOT ;; -arch=sm_35) # list
+set(CUDA_NVCC_FLAGS -lineinfo;-ccbin;/usr/bin/gcc;--compiler-options;-O2;-D_FORCE_INLINES;-DVERBOSE_NOT ;; -arch=sm_75) # list
 # Build specific configuration flags
 set(CUDA_NVCC_FLAGS_DEBUG  ; )
 set(CUDA_NVCC_FLAGS_MINSIZEREL  ; )
