@@ -85,7 +85,7 @@ int main(int argc, char **argv)
   PrintMatchData(siftData1, siftData2, img1);
   cv::imwrite("data/limg_pts.pgm", limg);
 
-  //MatchAll(siftData1, siftData2, homography);
+  MatchAll(siftData1, siftData2, homography);
   
   // Free Sift data from device
   FreeSiftData(siftData1);

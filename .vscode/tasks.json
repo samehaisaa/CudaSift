@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "cmake",
+			"command": "cmake",
+			"args": [
+				"..",
+				"-DCMAKE_CUDA_ARCH_BIN=${input:gpuArchitecture}"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}/build"
+			},
+			"presentation": {
+				"reveal": "silent"
+			}
+		}
+	]
+}
